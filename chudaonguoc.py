@@ -5,3 +5,5 @@ for char in nhap:
 dao = list(reversed(chuoi))
 chuoi_dao = ''.join(dao)
 print(chuoi_dao)
+print("#Tdat")
+#Tdat
